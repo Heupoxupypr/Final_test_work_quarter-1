@@ -3,6 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Ignoring directories
+# Both the directory itself and its contents will be ignored.
+bin/
+obj/
+
 # User-specific files
 *.rsuser
 *.suo
